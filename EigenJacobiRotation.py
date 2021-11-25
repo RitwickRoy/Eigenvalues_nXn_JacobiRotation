@@ -26,7 +26,7 @@ class JacobiRotation:
         self.j = 0
         self.tol = 0.000001
         self.tol_iter = 0.001
-        self.niter = 3
+        self.niter = 0
         self.maxdiag = -1.7976931348623157e+308
         self.maxoffdiag = -1.7976931348623157e+308
 
