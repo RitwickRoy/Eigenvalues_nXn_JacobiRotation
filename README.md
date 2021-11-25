@@ -1,1 +1,1 @@
-# Eigenvalues_nXn_JacobiRotation
+# Compute eigen values of a symmetric nXn matrix using Jacobi Rotation
