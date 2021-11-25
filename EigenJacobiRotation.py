@@ -73,7 +73,7 @@ class JacobiRotation:
                 self.ComputeTheta()
                 self.DiagUpdate()
     #
-    #  Iterate through rotation sweeps until the convergence.
+    #  Iterate through rotation sweeps until convergence.
     #  The ratio of the largest off-diagonal to the largest diagonal
     #  term for each sweep is checked against tolerance level.
     #
